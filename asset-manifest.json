@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ai_music/static/css/main.98ec47ca.css",
+    "main.js": "/ai_music/static/js/main.8d8ba25c.js",
+    "static/js/787.8cb0b4a8.chunk.js": "/ai_music/static/js/787.8cb0b4a8.chunk.js",
+    "static/media/about-img.png": "/ai_music/static/media/about-img.d565d45ac43ea722ba8d.png",
+    "static/media/beats-img3.png": "/ai_music/static/media/beats-img3.168fd94fb293a58f26f5.png",
+    "static/media/beats-img9.png": "/ai_music/static/media/beats-img9.6f1a8421176c96096bcf.png",
+    "static/media/beats-img4.png": "/ai_music/static/media/beats-img4.b6f385b9249f42129e66.png",
+    "static/media/beats-img7.png": "/ai_music/static/media/beats-img7.06acbdec25a8dcdec366.png",
+    "static/media/beats-img8.png": "/ai_music/static/media/beats-img8.6bbad85c55f83b8a8eee.png",
+    "static/media/beats-img2.png": "/ai_music/static/media/beats-img2.6f43fc5085c3dd0d49cf.png",
+    "static/media/beats-img6.png": "/ai_music/static/media/beats-img6.8d82e8d6a98e5eb66f43.png",
+    "static/media/beats-img10.png": "/ai_music/static/media/beats-img10.72ff1f45a0cfa987643a.png",
+    "static/media/beats-img5.png": "/ai_music/static/media/beats-img5.ef03bbaae25e648c446a.png",
+    "static/media/beats-img1.png": "/ai_music/static/media/beats-img1.2b7b0f2f5d44a3c5505f.png",
+    "static/media/generic.svg": "/ai_music/static/media/generic.b621cedb695f5d583b2493c14f5d7b13.svg",
+    "static/media/mastercard.svg": "/ai_music/static/media/mastercard.16d62b67bb416a913bbc5686503b248e.svg",
+    "static/media/paypal.svg": "/ai_music/static/media/paypal.298e6da13bbb2571453ecde6d76502ca.svg",
+    "static/media/visa.svg": "/ai_music/static/media/visa.a616ef72d8d6358e51de804acc2e724d.svg",
+    "index.html": "/ai_music/index.html",
+    "main.98ec47ca.css.map": "/ai_music/static/css/main.98ec47ca.css.map",
+    "main.8d8ba25c.js.map": "/ai_music/static/js/main.8d8ba25c.js.map",
+    "787.8cb0b4a8.chunk.js.map": "/ai_music/static/js/787.8cb0b4a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.8d8ba25c.js"
+  ]
+}
